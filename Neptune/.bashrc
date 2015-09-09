@@ -48,4 +48,5 @@ export GADDIR=$GRADS_ROOT/data
 export GASCRP=$GRADS_ROOT/lib
 export PATH=$GRADS_ROOT/bin:$PATH
 
-
+#unset ssh pass for github
+unset SSH_ASKPASS
