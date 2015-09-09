@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/yangsong3/wei/Model/agcm/transforms'
+let g:netrw_dirhist_2='/home/yangsong3/wei/Model/agcm/rundeck'
+let g:netrw_dirhist_3='/home/yangsong3/L_Zealot/project/TP_HEAT_wzq-2015'
+let g:netrw_dirhist_4='/home/yangsong3/data/observation/CFSR/readme'
+let g:netrw_dirhist_5='/home/yangsong3/ztt/data/olr_filter'
