@@ -44,4 +44,5 @@ set nu
 set ts=4
 set shiftwidth=4
 set expandtab 
+set term=linux
 highlight Comment ctermfg=6 guifg=6
