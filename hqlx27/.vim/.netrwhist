@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/disk/hq247/yhuangci/analy/halogen/result/ncl_files/v1/txt_file'
+let g:netrw_dirhist_2='/disk/hq247/yhuangci/cmaq-research/cmaq/src/scripts/cctm/BLD_CCTM_v52_pgi_cb05eh51_ae6_aq'
+let g:netrw_dirhist_3='/disk/scratch/xuguo/4Yeqi/smoke/cmaq/Smoke37.combine.v1/data/inventory/2005/mobile'
+let g:netrw_dirhist_4='/disk/scratch/xuguo/4Yeqi/smoke/cmaq/Smoke37.combine.v1/data/ge_dat_SCUT_EI2006'
+let g:netrw_dirhist_5='/disk/hq247/yhuangci/cmaq52/smoke24/cmaq/Smoke24.combine.v2/subsys/smoke/scripts/run'
+let g:netrw_dirhist_6='/disk/hq247/yhuangci/cmaq-research/cmaq/src/scripts/combine/spec_def_files'
+let g:netrw_dirhist_7='/disk/hq247/yhuangci/analy/halogen/result/ncl_files/v1/calc'
+let g:netrw_dirhist_8='/disk/hq247/yhuangci/lzhenn/data/station/hydro/GRDC/rawdata/daily'
+let g:netrw_dirhist_9='/disk/hq247/yhuangci/analy/halogen/result/ncl_files/v1/vertical_area'
